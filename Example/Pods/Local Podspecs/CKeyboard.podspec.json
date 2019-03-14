@@ -1,0 +1,22 @@
+{
+  "name": "CKeyboard",
+  "version": "0.1.0",
+  "summary": "A short description of CKeyboard.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/srqa3h.com@gmail.com/CKeyboard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "srqa3h.com@gmail.com": "srqa3h.com@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/srqa3h.com@gmail.com/CKeyboard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CKeyboard/Classes/**/*"
+}

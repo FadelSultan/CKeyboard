@@ -1,0 +1,6 @@
+framework module CKeyboard {
+  umbrella header "CKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}

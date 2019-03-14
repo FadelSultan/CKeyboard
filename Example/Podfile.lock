@@ -1,0 +1,16 @@
+PODS:
+  - CKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - CKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  CKeyboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CKeyboard: 438286083f2f5adb5c8f986f540ef0be64134f4a
+
+PODFILE CHECKSUM: 5cc549222efc15a2b8f3d332f7f038dd492f5a1f
+
+COCOAPODS: 1.6.1
